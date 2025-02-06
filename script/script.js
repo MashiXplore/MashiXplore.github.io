@@ -77,8 +77,8 @@ document.addEventListener('DOMContentLoaded', function () {
             {
                 element: '#anniversaryDate',
                 popover: {
-                    title: 'Fecha de Aniversario',
-                    description: 'Ingresa la fecha de tu aniversario en este campo.',
+                    title: 'Fecha de mi cumple',
+                    description: 'Pon la fecha de mi cumpleaños en estapacio te dare una pista es en año 2002.',
                     side: 'top',
                     align: 'center'
                 }
